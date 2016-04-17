@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item android:id="@+id/recents"
+        android:icon="@android:drawable/ic_menu_recent_history"
+        android:title="Recents">
+
+    </item>
+
+    <item android:id="@+id/popular"
+        android:title="Popular"
+        android:icon="@android:drawable/ic_menu_send">
+
+    </item>
+
+    <item android:id="@+id/addShop"
+        android:title="Add"
+        android:icon="@android:drawable/ic_menu_add">
+
+    </item>
+
+</menu>
